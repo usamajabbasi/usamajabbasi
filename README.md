@@ -16,5 +16,4 @@ I am a Software Engineer
 <!-- - 💬 Ask me about ... -->
 - 📫 How to reach me: usamajabbasi@gmail.com
 <!-- - 😄 Pronouns: ... -->
-- ⚡ Fun fact: I am still single
 
